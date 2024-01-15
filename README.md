@@ -1,7 +1,7 @@
-### 😜 Opa, eu sou Natan Vinícius. Sou desenvolvedor front-end
+### 😜 Opa, eu sou Natan Vinícius. E sou desenvolvedor
 
 - Estudando HTML, CSS e JS
-- Aprendiz de desenvolvimento Web
+- Eterno aprendiz de desenvolvimento Web
 - Estou no 7° período de Sistemas de Informação-UFS
 
 ##
