@@ -1,7 +1,3 @@
-### 😜 Opa, eu sou Natan Vinícius. E sou desenvolvedor
-
-- Eterno aprendiz de desenvolvimento 
-- Estou no 7° período de Sistemas de Informação-UFS
 
 ##
 
